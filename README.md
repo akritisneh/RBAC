@@ -58,7 +58,6 @@ This page is dedicated to managing system-wide permissions:
 ## Future Enhancements
 * Integration with a real backend database.
 * Persistent data storage using APIs.
-* Adding dynamic permission assignment to roles.
 * Role and permission hierarchical modeling.
 
 Working :
