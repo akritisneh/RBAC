@@ -265,7 +265,8 @@ const RolesPage = () => {
           />
           <div>
             <Typography variant="h6">Permissions</Typography>
-            {["Read", "Write", "Delete"].map((permission) => (
+            {["Read", "Write", "Delete", "Manage Users", "Configure Systems", 
+            "View Payroll", "View Financial Reports", "Export Data", "Update Profile"].map((permission) => (
               <FormControlLabel
                 key={permission}
                 control={
